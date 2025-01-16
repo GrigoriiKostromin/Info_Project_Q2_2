@@ -2,7 +2,7 @@
 import tcod
 from actions import EscapeAction, MovementAction
 from input_handlers import EventHandler
-#Ich möchte, dass du diesen Kommentar, sobald du die repo gepullt hast ersetzt!
+#HAHAHASHHA
 
 def main() -> None:
 
