@@ -2,7 +2,7 @@
 import tcod
 from actions import EscapeAction, MovementAction
 from input_handlers import EventHandler
-#hallo
+#LoL
 
 def main() -> None:
 
